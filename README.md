@@ -20,5 +20,6 @@
 ## 🧑 About me 
 
  - Name: Didac Campanals
+ - Web: [didaccs.com](https://didaccs.com/)
  - Linkedin: [linkedin.com/in/didaccs](https://www.linkedin.com/in/didaccs/)
  - Microsoft: [docs.microsoft.com/en-us/users/didaccs](https://docs.microsoft.com/en-us/users/didaccs/)
